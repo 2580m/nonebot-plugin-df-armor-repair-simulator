@@ -8,7 +8,7 @@
 
 # nonebot-plugin-df-armor-repair-simulator
 
-_✨ NoneBot 插件简单描述 ✨_
+_✨ 《三角洲行动》护甲维修模拟器 ✨_
 
 
 <a href="./LICENSE">
