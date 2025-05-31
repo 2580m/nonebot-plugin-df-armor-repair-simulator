@@ -19,6 +19,8 @@ _✨ NoneBot 插件简单描述 ✨_
 </a>
 <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="python">
 
+</center>
+
 <p align="left">
 
 ## 📖 介绍
