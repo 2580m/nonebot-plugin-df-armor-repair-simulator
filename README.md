@@ -19,6 +19,8 @@ _✨ NoneBot 插件简单描述 ✨_
 </a>
 <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="python">
 
+<p align="left">
+
 ## 📖 介绍
 
 《三角洲行动》护甲维修模拟器
@@ -81,3 +83,5 @@ _✨ NoneBot 插件简单描述 ✨_
 | 指令2 | 群员 | 是 | 群聊 | 指令说明 |
 ### 效果图
 如果有效果图的话
+
+</p>
