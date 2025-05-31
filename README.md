@@ -33,7 +33,7 @@ _✨ 《三角洲行动》护甲维修模拟器 ✨_
 <summary>使用 nb-cli 安装</summary>
 在 nonebot2 项目的根目录下打开命令行, 输入以下指令即可安装
 
-    nb plugin install nonebot-plugin-template
+    nb plugin install nonebot-plugin-df-armor-repair-simulator
 
 </details>
 
@@ -44,41 +44,23 @@ _✨ 《三角洲行动》护甲维修模拟器 ✨_
 <details>
 <summary>pip</summary>
 
-    pip install nonebot-plugin-template
-</details>
-<details>
-<summary>pdm</summary>
-
-    pdm add nonebot-plugin-template
-</details>
-<details>
-<summary>poetry</summary>
-
-    poetry add nonebot-plugin-template
-</details>
-<details>
-<summary>conda</summary>
-
-    conda install nonebot-plugin-template
+    pip install nonebot-plugin-df-armor-repair-simulator
 </details>
 
 打开 nonebot2 项目根目录下的 `pyproject.toml` 文件, 在 `[tool.nonebot]` 部分追加写入
 
-    plugins = ["nonebot_plugin_template"]
+    plugins = ["nonebot_plugin_df_armor_repair_simulator"]
 
 </details>
 
 ## ⚙️ 配置
 
-无
+将本仓库 nonebot_plugin_df_armor_repair_simulator/data/armors.json 和 nonebot_plugin_df_armor_repair_simulator/data/helmets.json 放在localstore的本插件的对应目录下
 
 ## 🎉 使用
 ### 指令表
 | 指令 | 权限 | 需要@ | 范围 | 说明 |
 |:-----:|:----:|:----:|:----:|:----:|
-| 指令1 | 主人 | 否 | 私聊 | 指令说明 |
-| 指令2 | 群员 | 是 | 群聊 | 指令说明 |
-### 效果图
-如果有效果图的话
+| 护甲维修模拟器 | 群员 | 否 | 群聊 | 启用护甲维修模拟器 |
 
 </div>
