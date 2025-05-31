@@ -1,1 +1,127 @@
+{
+  "3": {
+    "1": {
+      "name": "制式防弹背心",
+      "repair_loss": 0.05,
+      "base_max": 50,
+      "min_market": 35,
+      "repair_price": 145
+    },
+    "2": {
+      "name": "TG-H防弹衣",
+      "repair_loss": 0.09,
+      "base_max": 75,
+      "min_market": 52,
+      "repair_price": 112
 
+    },
+    "3": {
+      "name": "射手战术背心",
+      "repair_loss": 0.07,
+      "base_max": 85,
+      "min_market": 59,
+      "repair_price": 138
+    },
+    "4": {
+      "name": "Hvk快拆防弹衣",
+      "repair_loss": 0.04,
+      "base_max": 60,
+      "min_market": 42,
+      "repair_price": 140
+    }
+  },
+  "4": {
+    "1": {
+      "name": "武士防弹背心",
+      "repair_loss": 0.06,
+      "base_max": 80,
+      "min_market": 56,
+      "repair_price": 168
+    },
+    "2": {
+      "name": "DT-AVS防弹衣",
+      "repair_loss": 0.1,
+      "base_max": 100,
+      "min_market": 70,
+      "repair_price": 221
+    },
+    "3": {
+      "name": "MK-2战术背心",
+      "repair_loss": 0.09,
+      "base_max": 110,
+      "min_market": 77,
+      "repair_price": 233
+    },
+    "4": {
+      "name": "突击手防弹背心",
+      "repair_loss": 0.18,
+      "base_max": 90,
+      "min_market": 62,
+      "repair_price": 248
+    },
+    "5": {
+      "name": "HMP特勤防弹衣",
+      "repair_loss": 0.1,
+      "base_max": 80,
+      "min_market": 56,
+      "repair_price": 262
+    }    
+  },
+  "5": {
+    "1": {
+      "name": "精英防弹背心",
+      "repair_loss": 0.12,
+      "base_max": 95,
+      "min_market": 66,
+      "repair_price": 394
+    },
+    "2": {
+      "name": "FS复合防弹衣",
+      "repair_loss": 0.09,
+      "base_max": 105,
+      "min_market": 73,
+      "repair_price": 587
+    },
+    "3": {
+      "name": "重型防弹背心",
+      "repair_loss": 0.1,
+      "base_max": 125,
+      "min_market": 87,
+      "repair_price": 374
+    },
+    "4": {
+      "name": "Hvk-2防弹衣",
+      "repair_loss": 0.14,
+      "base_max": 115,
+      "min_market": 80,
+      "repair_price": 325
+    }
+  },
+  "6": {
+    "1": {
+      "name": "金刚防弹衣",
+      "repair_loss": 0.15,
+      "base_max": 140,
+      "repair_price": 757
+    },
+    "2": {
+      "name": "特里克MAS2.0装甲",
+      "repair_loss": 0.06,
+      "base_max": 125,
+      "repair_price": 1038
+    },
+    "3": {
+      "name": "泰坦防弹装甲",
+      "repair_loss": 0.09,
+      "base_max": 150,
+      "repair_price": 677
+    },
+    "4": {
+      "name": "HA-2重型防弹衣",
+      "repair_loss": 0.11,
+      "base_max": 115,
+      "min_market": 80,
+      "repair_price": 1039
+    }
+  }
+}

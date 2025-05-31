@@ -1,0 +1,133 @@
+{
+  "3": {
+    "1": {
+      "name": "防暴头盔",
+      "repair_loss": 0.06,
+      "base_max": 28,
+      "min_market": 19,
+      "repair_price": 200
+    },
+    "2": {
+      "name": "DAS防弹头盔",
+      "repair_loss": 0.09,
+      "base_max": 40,
+      "min_market": 28,
+      "repair_price": 220
+    },
+    "3": {
+      "name": "MC201头盔",
+      "repair_loss": 0.13,
+      "base_max": 34,
+      "min_market": 23,
+      "repair_price": 248
+    },
+    "4": {
+      "name": "H07战术头盔",
+      "repair_loss": 0.1,
+      "base_max": 20,
+      "min_market": 14,
+      "repair_price": 276
+    }
+  },
+  "4": {
+    "1": {
+      "name": "D6战术头盔",
+      "repair_loss": 0.08,
+      "base_max": 55,
+      "min_market": 38,
+      "repair_price": 238
+    },
+    "2": {
+      "name": "DICH训练头盔",
+      "repair_loss": 0.15,
+      "base_max": 35,
+      "min_market": 24,
+      "repair_price": 587
+    },
+    "3": {
+      "name": "GT1战术头盔",
+      "repair_loss": 0.1,
+      "base_max": 48,
+      "min_market": 33,
+      "repair_price": 404
+    },
+    "4": {
+      "name": "MHS战术头盔",
+      "repair_loss": 0.12,
+      "base_max": 30,
+      "min_market": 21,
+      "repair_price": 448
+    }
+  },
+  "5": {
+    "1": {
+      "name": "Mask-1铁壁头盔",
+      "repair_loss": 0.07,
+      "base_max": 75,
+      "min_market": 52,
+      "repair_price": 366
+    },
+    "2": {
+      "name": "DICH-1战术头盔",
+      "repair_loss": 0.16,
+      "base_max": 40,
+      "min_market": 28,
+      "repair_price": 1144
+    },
+    "3": {
+      "name": "GN重型头盔",
+      "repair_loss": 0.07,
+      "base_max": 50,
+      "min_market": 35,
+      "repair_price": 826
+    },
+    "4": {
+      "name": "GN久战重型夜视头盔",
+      "repair_loss": 0.07,
+      "base_max": 20,
+      "min_market": 14,
+      "repair_price": 826
+    },
+    "5": {
+      "name": "GN重型夜视头盔",
+      "repair_loss": 0.07,
+      "base_max": 50,
+      "min_market": 35,
+      "repair_price": 826
+    },
+    "6": {
+      "name": "H09防爆头盔",
+      "repair_loss": 0.16,
+      "base_max": 45,
+      "min_market": 31,
+      "repair_price": 657
+    }
+  },
+  "6": {
+    "1": {
+      "name": "DICH-9重型头盔",
+      "repair_loss": 0.1,
+      "base_max": 50,
+      "repair_price": 1491
+    },
+    "2": {
+      "name": "GT5指挥官头盔",
+      "repair_loss": 0.07,
+      "base_max": 60,
+      "repair_price": 1737
+    },
+    "3": {
+      "name": "H70精英头盔",
+      "repair_loss": 0.16,
+      "base_max": 55,
+      "min_market": 38,
+      "repair_price": 1007
+    },
+    "4": {
+      "name": "H70夜视精英头盔",
+      "repair_loss": 0.16,
+      "base_max": 55,
+      "repair_price": 1007
+    }
+  }
+}
