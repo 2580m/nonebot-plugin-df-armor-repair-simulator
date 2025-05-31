@@ -21,7 +21,7 @@ _✨ NoneBot 插件简单描述 ✨_
 
 </div>
 
-这是一个 nonebot2 插件项目的模板库, 你可以直接使用本模板创建你的 nonebot2 插件项目的仓库
+《三角洲行动》护甲维修模拟器
 
 <details open>
 <summary>模板库使用方法</summary>
