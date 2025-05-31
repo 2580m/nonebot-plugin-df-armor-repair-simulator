@@ -21,7 +21,7 @@ _✨ NoneBot 插件简单描述 ✨_
 
 </div>
 
-<p align="left">
+<div align="left">
 
 ## 📖 介绍
 
